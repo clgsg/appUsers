@@ -11,7 +11,7 @@ app.use((error, req, res, next)=> {
 })
 
 app.listen(3000, ()=>{
-	console.info("Listening... 🛸👂🏻")
+	console.info("Listening... 🛸")
 });
 
 
