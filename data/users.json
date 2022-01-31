@@ -1,0 +1,18 @@
+[
+	{
+		"firstname": "Pepe",
+		"lastname": "González",
+		"username": "PGonz56",
+		"email": "font@gmail.com",
+		"password": "pgonzAl3z!",
+		"birthdate": "2001-03-15"
+	},
+	{
+		"firstname": "Pepa",
+		"lastname": "Pérez",
+		"username": "Pepuch1.",
+		"email": "pepi@gmail.com",
+		"password": "pgonzAl3z!",
+		"birthdate": "1963-03-25"
+	}
+]
