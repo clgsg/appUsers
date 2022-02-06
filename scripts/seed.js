@@ -1,5 +1,3 @@
-//*Transform according to project
-
 require("../config/db");
 
 const usersModel = require("../models/userdata");
